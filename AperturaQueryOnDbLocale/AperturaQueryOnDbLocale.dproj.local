@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/01 12:26:27.985,=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/01 12:48:52.429,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/12/01 13:03:25.019,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\AperturaQueryOnDbLocale.dproj=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
